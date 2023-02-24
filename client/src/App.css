@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+.App_innerBox {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.App_innerBox > div {
+  width: 100%;
+}
